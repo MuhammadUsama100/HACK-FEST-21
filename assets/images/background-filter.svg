@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="414.054" height="1181.511" viewBox="0 0 414.054 1181.511">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.863" y1="0.035" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3eb64a"/>
+      <stop offset="1" stop-color="#0a2e36"/>
+    </linearGradient>
+  </defs>
+  <rect id="lily-banse--YHSwy6uqvk-unsplash" width="414.054" height="1181.511" opacity="0.67" fill="url(#linear-gradient)"/>
+</svg>

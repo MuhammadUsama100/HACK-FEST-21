@@ -1,0 +1,49 @@
+name: merchantnationuserapp
+description: A new Flutter project.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  animated_splash_screen: ^1.0.1+2
+  cupertino_icons: ^1.0.2
+  dio: ^4.0.0
+  drawer_component: ^0.2.1
+  google_fonts: ^2.0.0
+  flutter_datetime_picker: ^1.5.1
+  flutter_svg: ^0.22.0
+  http: ^0.13.3
+  pdf: ^3.4.2
+  intl: ^0.17.0
+  path_provider: ^2.0.2
+  overlay_support: ^1.2.1
+  permission_handler: ^7.1.0
+  qrscan: ^0.3.1
+  shared_preferences: ^2.0.5
+  sqflite: ^2.0.0+3
+  screenshot: ^1.2.3
+  numberpicker: ^2.1.1
+  uuid: ^3.0.4
+  cached_network_image: ^3.1.0
+  geolocator: ^7.4.1
+  url_launcher: ^6.0.9
+  downloads_path_provider_28: ^0.1.2
+  place_picker: ^0.9.18
+  google_maps_flutter: ^2.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: SourceSansPro
+      fonts:
+        - asset: assets/fonts/SourceSansPro-RyPo.ttf
